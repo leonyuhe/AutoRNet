@@ -8,7 +8,7 @@ if __name__ == '__main__':
     params = {
         'CONNECT_API_KEY': 'sk-059c618sssf87b4f4dfdsafads37b2fd7866452c824b',
         'CONNECT_BASE_URL': 'https://api.openai.com/v1',
-        'MODEL': 'deepseek-chat',
+        'MODEL': 'gpt-4o',
         'PROBLEM': 'CNetRob',
 
     }
